@@ -13,3 +13,9 @@ npm start
 
 NEXT_PUBLIC_API = https://bds-ngo-backend-production.up.railway.app/api
 
+deployed apis:
+
+https://bds-ngo-backend-production.up.railway.app/api
+
+
+
